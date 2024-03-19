@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Backgrounds-Shadows",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Backgrounds-Shadows",
+		"liveServer.settings.port": 5501
+	}
+}
